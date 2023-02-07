@@ -1,4 +1,4 @@
-# React Js sidebar responsive
+# React Js Polling Progress with responsive Sidebar
 
 Clone the project and run:
 
