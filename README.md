@@ -1,6 +1,7 @@
 # React Js Polling Progress with responsive Sidebar
 
 Clone the project and run:
+or download the zip file
 
 ### `npm install`
 
